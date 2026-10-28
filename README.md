@@ -18,3 +18,4 @@ git remote -v  [check the remote github URL]
 
 Extra:
 git pull origin main [update the existing local repository with remote changes]
+git add README.md[Staging tells Git which changes you want to include in the next commit]
