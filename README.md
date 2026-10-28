@@ -22,3 +22,6 @@ git pull origin main [update the existing local repository with remote changes] 
 git add README.md[Staging tells Git which changes you want to include in the next commit] <br>
 git commit -m "Add README file" [commit saves a snapshot of your staged changes in your local Git repository.] <br>
 git push origin main [upload your commit to the remote GitHub repository's main branch.]
+
+
+new change
